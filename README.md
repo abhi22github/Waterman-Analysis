@@ -1,4 +1,5 @@
-# Water Can Ordering Application
+# WaterMan Analysis
+
 
 This repository contains a simple Java Swing application for ordering water cans, composed of two main components: `WaterContent.java` (the order page) and `Bill.java` (the bill generation and confirmation page).
 
